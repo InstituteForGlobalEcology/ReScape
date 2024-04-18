@@ -4,7 +4,7 @@
 Since 1885, recreational photographers and scientists have been accumulating countless coral-reefscape images from around the world. However, the immense ecological information in these images have remained concealed because the images suffer from perspective distortion, which causes the size of organisms to decrease with increasing distance from the camera, rendering the images unusable for quantitative analysis of reef conditions. The *ReScape* algorithm solves this century-long problem by transforming coral-reefscape images into a top-down view, removing the perspective distortion and recovering the real size of organisms. The *ReScape* algorithm is available as a free, user-friendly App that does not require any coding experience. Our paper can be accessed here: https://doi.org/10.1038/s41598-024-59123-2
 
 ## Section B: How to download and run the *ReScape* App
-Navigate to LINK and download the <ins>ReScape.exe</ins> file.
+Navigate to https://github.com/InstituteForGlobalEcology/ReScape/releases/tag/v1.0.0 and download the <ins>ReScape.exe</ins> file.
 
 Windows users can readily run the *ReScape* App; Mac users must download and run the Windows operating system.
 
@@ -55,7 +55,7 @@ If you plan on being away from your computer, consider entering a high value for
 
 If you need to free up storage space, consider deleting the intermediate-image diagnostics after verifying that the images were accurately transformed.
 
-Users who wish to modify the *ReScape* source code can navigate to LINK and download the <ins>ReScape.py</ins> file.
+Users who wish to modify the *ReScape* source code can navigate to https://github.com/InstituteForGlobalEcology/ReScape/releases/tag/v1.0.0 and download the <ins>ReScape.py</ins> file.
 
 ## Section H: Terms of Use and Attribution
 Notably, the use of *ReScape* must attribute the authors, be noncommercial, and inherit the CC BY-NC-SA license in perpetuity if derivative work is created. Please refer to the <ins>LICENSE.txt</ins> file for *ReScape*’s complete Terms of Use. 
