@@ -64,7 +64,7 @@ Notably, the use of *ReScape* must attribute the authors, be noncommercial, and 
 
 Please cite *ReScape* as follows:
 
-Ferris, Z., Ribeiro, E., Nagata, T. & van Woesik, R. *ReScape*: transforming coral-reefscape images for quantitative analysis. *Sci. Rep.* <b>vol,</b> 59123 (2024) https://doi.org/10.1038/s41598-024-59123-2
+Ferris, Z., Ribeiro, E., Nagata, T. & van Woesik, R. *ReScape*: transforming coral-reefscape images for quantitative analysis. *Sci. Rep.* <b>vol,</b> 8915 (2024) https://doi.org/10.1038/s41598-024-59123-2
 
 
 
