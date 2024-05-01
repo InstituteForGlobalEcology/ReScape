@@ -1,4 +1,5 @@
 # *ReScape*
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/instituteforglobalecology/rescape/total?color=%23FFD700)
 
 ## Section A: Introduction
 Since 1885, recreational photographers and scientists have been accumulating countless coral-reefscape images from around the world. However, the immense ecological information in these images have remained concealed because the images suffer from perspective distortion, which causes the size of organisms to decrease with increasing distance from the camera, rendering the images unusable for quantitative analysis of reef conditions. The *ReScape* algorithm solves this century-long problem by transforming coral-reefscape images into a top-down view, removing the perspective distortion and recovering the real size of organisms. The *ReScape* algorithm is available as a free, user-friendly App that does not require any coding experience. Our paper can be accessed here: https://doi.org/10.1038/s41598-024-59123-2
